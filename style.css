@@ -1,0 +1,56 @@
+body{
+    font-family: "Oswald", serif;
+}
+
+
+
+
+Table {width:100%
+    /* Border-right:2px solid black;  */
+}
+.td1{
+    Border-right:2px solid black; 
+    text-align: justify;
+    
+}
+.td2{
+    border-right: 2px solid black; 
+    text-align: justify;
+}
+.td3{
+    
+    text-align: justify;
+}
+img{
+    margin-right:10px;
+    height: 160px;
+    width: 150px;
+}
+.td4{
+    Border-right:2px solid black; 
+    text-align:left;
+}
+.td5{ 
+    text-align: justify;
+}
+.td6{ 
+    Border-left:2px solid black;
+    text-align: justify;
+}
+.span1{
+    font-weight: bold;
+    line-height: 1 ;
+    margin-left: 5px;
+}
+.span2{
+    margin-left: 160px;
+}
+.span3{
+    margin-left: 160px;
+}
+.span4{
+    margin-left: 160px;
+}
+p{
+    margin-left: 5px;
+}
